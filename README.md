@@ -1,11 +1,9 @@
 # Overview
 
 <TODO: complete this with an overview of your project>
-[![Build Status](https://dev.azure.com/oyindaakinyemi/Flask-ML-Deploy/_apis/build/status/oyin-bam.flask-ml-service?branchName=master)](https://dev.azure.com/oyindaakinyemi/Flask-ML-Deploy/_build/latest?definitionId=3&branchName=master)
 
 ## Project Plan
 <TODO: Project Plan
-#hello
 
 * A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
