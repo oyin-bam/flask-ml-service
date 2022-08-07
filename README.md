@@ -50,11 +50,14 @@ chmod +x make_predict_azure_app.sh
 ![prediction output](prediction%20output.png)
 15. from the portal in app service, the log stream of the deployed application
 ![deployed applications log stream](log%20stream%20from%20the%20portal.png)
-## Successfu run of the project in azure
+## Successful run of the project in azure
 ![successful project run](successful%20run%20of%20the%20projectin%20azure%20pipeline.png)
 
 ## status badge for git actions
 ![status badge](status%20badge%20for%20gitactions.png)
+
+## Successful test run using Locust
+![locust test](locust-screenshot.png)
 
 ##live app url
 
