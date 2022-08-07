@@ -13,7 +13,8 @@ A guide to deploying a CI/CD Pipeline for A Simple Flask App on Azure
 ) spreadsheet that includes the original and final project plan.
 
 ## Demo video
-
+[part 1](https://www.youtube.com/watch?v=eBoO8wVYjyw)
+[part 2](https://www.youtube.com/watch?v=EbNs3f42qIc)
 
 ## Instructions for running this Python project:
 
